@@ -2,6 +2,12 @@
 
 > Projet personnel de jeu vidéo éducatif + logiciel utilitaire – développé par Luka Kapanadze.
 
+## 🔒 Licence
+
+Ce projet est protégé par le droit d’auteur © 2025 Luka Kapanadze.  
+Aucune réutilisation n’est autorisée sans accord préalable.
+
+Voir le fichier [LICENSE](./LICENSE) pour plus d’informations.
 ---
 
 ## 📌 Présentation
